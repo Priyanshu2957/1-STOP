@@ -9,11 +9,11 @@ export const Hero = () => {
       <div className='h-left'>
         <h2>NEW ARRIVALS</h2>
         <div className='hand-icon'>
-          <p>new</p>
-          <img src={hand_icon} alt=''/>
+          <p>New</p>
+          
         </div>
-        <p>collections</p>
-        <p>for everyone</p>
+        <p>Collections</p>
+        <p>For Everyone</p>
         <div className='hero-latest-btn'>
         <div>Latest Collections</div>
         <img src={arrow_icon} alt='' />
